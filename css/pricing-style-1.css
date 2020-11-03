@@ -5,6 +5,7 @@
 .pricing-table.table1 .columns,
 .pricing-table.table3 .columns {
   width: 25%;
+  /* display: flex; */
   color: #5f727f;
   font-family: "Source Sans Pro", serif;
   position: relative;
